@@ -2,8 +2,8 @@
 //  Gasto.swift
 //  Gamic
 //
-//  Created by Student on 16/08/17.
-//  Copyright © 2017 Eric Ribeiro. All rights reserved.
+//  Created by Marcelo Chaves on 16/08/17.
+//  Copyright © 2017 Marcelo Chaves. All rights reserved.
 //
 
 import Foundation

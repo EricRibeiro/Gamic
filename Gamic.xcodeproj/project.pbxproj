@@ -12,8 +12,8 @@
 		3F9A97A21F44950C0061D38A /* Gasto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9A97A11F44950C0061D38A /* Gasto.swift */; };
 		3F9A97A41F4495140061D38A /* AdicionarGastosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9A97A31F4495140061D38A /* AdicionarGastosViewController.swift */; };
 		3FB474501F45DF3300895F47 /* PerfilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB4744F1F45DF3300895F47 /* PerfilViewController.swift */; };
+		469A0A7C211F5E0700ABC005 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 469A0A7B211F5E0700ABC005 /* Assets.xcassets */; };
 		741907EB1F3E42BD00E5BCF4 /* MissoesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 741907EA1F3E42BD00E5BCF4 /* MissoesTableViewCell.swift */; };
-		7471FC971F422180003671FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7471FC961F422180003671FE /* Assets.xcassets */; };
 		7471FC991F422CFB003671FE /* AdicionarMissoesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7471FC981F422CFB003671FE /* AdicionarMissoesViewController.swift */; };
 		747A518C1F4607D9003D5F6D /* NavPerfil.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 747A518A1F4607D9003D5F6D /* NavPerfil.storyboard */; };
 		747A51951F460979003D5F6D /* NavMissoes.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 747A51941F460979003D5F6D /* NavMissoes.storyboard */; };
@@ -30,7 +30,6 @@
 		74B1FBDE1F41F5DF004342CF /* Perfil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B1FBDD1F41F5DF004342CF /* Perfil.swift */; };
 		74E56D1C1F41D36B006D516C /* Missao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E56D1B1F41D36B006D516C /* Missao.swift */; };
 		74F141131F3CDBAB0092C069 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F141121F3CDBAB0092C069 /* AppDelegate.swift */; };
-		74F141151F3CDBAB0092C069 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F141141F3CDBAB0092C069 /* ViewController.swift */; };
 		74F141181F3CDBAB0092C069 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74F141161F3CDBAB0092C069 /* Main.storyboard */; };
 		74F1411B1F3CDBAB0092C069 /* Gamic.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 74F141191F3CDBAB0092C069 /* Gamic.xcdatamodeld */; };
 		74F141201F3CDBAB0092C069 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74F1411E1F3CDBAB0092C069 /* LaunchScreen.storyboard */; };
@@ -43,8 +42,8 @@
 		3F9A97A11F44950C0061D38A /* Gasto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gasto.swift; sourceTree = "<group>"; };
 		3F9A97A31F4495140061D38A /* AdicionarGastosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdicionarGastosViewController.swift; sourceTree = "<group>"; };
 		3FB4744F1F45DF3300895F47 /* PerfilViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PerfilViewController.swift; sourceTree = "<group>"; };
+		469A0A7B211F5E0700ABC005 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		741907EA1F3E42BD00E5BCF4 /* MissoesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MissoesTableViewCell.swift; sourceTree = "<group>"; };
-		7471FC961F422180003671FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7471FC981F422CFB003671FE /* AdicionarMissoesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdicionarMissoesViewController.swift; sourceTree = "<group>"; };
 		747A518B1F4607D9003D5F6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/NavPerfil.storyboard; sourceTree = "<group>"; };
 		747A51941F460979003D5F6D /* NavMissoes.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = NavMissoes.storyboard; sourceTree = "<group>"; };
@@ -62,7 +61,6 @@
 		74E56D1B1F41D36B006D516C /* Missao.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Missao.swift; sourceTree = "<group>"; };
 		74F1410F1F3CDBAA0092C069 /* Gamic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gamic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74F141121F3CDBAB0092C069 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		74F141141F3CDBAB0092C069 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		74F141171F3CDBAB0092C069 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		74F1411A1F3CDBAB0092C069 /* Gamic.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Gamic.xcdatamodel; sourceTree = "<group>"; };
 		74F1411F1F3CDBAB0092C069 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -81,142 +79,62 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3F9FAE1D1F3DF5E300520ECD /* Rank */ = {
-			isa = PBXGroup;
-			children = (
-				747A519B1F460BCF003D5F6D /* NavRank.storyboard */,
-			);
-			name = Rank;
-			sourceTree = "<group>";
-		};
-		3F9FAE1E1F3DF5E900520ECD /* Conquistas */ = {
-			isa = PBXGroup;
-			children = (
-				747A51961F460B1F003D5F6D /* NavConquistas.storyboard */,
-			);
-			name = Conquistas;
-			sourceTree = "<group>";
-		};
-		3F9FAE1F1F3DF5F100520ECD /* Missoes */ = {
-			isa = PBXGroup;
-			children = (
-				747A51941F460979003D5F6D /* NavMissoes.storyboard */,
-			);
-			name = Missoes;
-			sourceTree = "<group>";
-		};
-		3F9FAE201F3DF5F800520ECD /* Gastos */ = {
-			isa = PBXGroup;
-			children = (
-				747A519E1F460CA6003D5F6D /* NavGastos.storyboard */,
-			);
-			name = Gastos;
-			sourceTree = "<group>";
-		};
-		3F9FAE211F3DF60300520ECD /* Perfil */ = {
-			isa = PBXGroup;
-			children = (
-				747A518A1F4607D9003D5F6D /* NavPerfil.storyboard */,
-			);
-			name = Perfil;
-			sourceTree = "<group>";
-		};
 		741907DD1F3E2BAE00E5BCF4 /* Data Access Object */ = {
 			isa = PBXGroup;
 			children = (
-				741907DE1F3E2BDD00E5BCF4 /* Perfil */,
-				741907DF1F3E2C1700E5BCF4 /* Missoes */,
-				741907E01F3E2C2700E5BCF4 /* Gastos */,
-				741907E11F3E2C2F00E5BCF4 /* Conquistas */,
-				741907E21F3E2C3D00E5BCF4 /* Rank */,
+				74B1FBDD1F41F5DF004342CF /* Perfil.swift */,
+				74E56D1B1F41D36B006D516C /* Missao.swift */,
+				3F9A97A11F44950C0061D38A /* Gasto.swift */,
+				749D42541F43F1D400F69FA1 /* Conquistas.swift */,
+				74A6D1D61F4565D40039F97F /* Rank.swift */,
 			);
 			name = "Data Access Object";
 			sourceTree = "<group>";
 		};
-		741907DE1F3E2BDD00E5BCF4 /* Perfil */ = {
-			isa = PBXGroup;
-			children = (
-				74B1FBDD1F41F5DF004342CF /* Perfil.swift */,
-			);
-			name = Perfil;
-			sourceTree = "<group>";
-		};
-		741907DF1F3E2C1700E5BCF4 /* Missoes */ = {
-			isa = PBXGroup;
-			children = (
-				74E56D1B1F41D36B006D516C /* Missao.swift */,
-			);
-			name = Missoes;
-			sourceTree = "<group>";
-		};
-		741907E01F3E2C2700E5BCF4 /* Gastos */ = {
-			isa = PBXGroup;
-			children = (
-				3F9A97A11F44950C0061D38A /* Gasto.swift */,
-			);
-			name = Gastos;
-			sourceTree = "<group>";
-		};
-		741907E11F3E2C2F00E5BCF4 /* Conquistas */ = {
-			isa = PBXGroup;
-			children = (
-				749D42541F43F1D400F69FA1 /* Conquistas.swift */,
-			);
-			name = Conquistas;
-			sourceTree = "<group>";
-		};
-		741907E21F3E2C3D00E5BCF4 /* Rank */ = {
-			isa = PBXGroup;
-			children = (
-				74A6D1D61F4565D40039F97F /* Rank.swift */,
-			);
-			name = Rank;
-			sourceTree = "<group>";
-		};
-		741907E31F3E423500E5BCF4 /* Perfil */ = {
+		741907E31F3E423500E5BCF4 /* Profile */ = {
 			isa = PBXGroup;
 			children = (
 				3FB4744F1F45DF3300895F47 /* PerfilViewController.swift */,
 			);
-			name = Perfil;
+			name = Profile;
 			sourceTree = "<group>";
 		};
-		741907E41F3E424B00E5BCF4 /* Missoes */ = {
+		741907E41F3E424B00E5BCF4 /* Missions */ = {
 			isa = PBXGroup;
 			children = (
 				741907EA1F3E42BD00E5BCF4 /* MissoesTableViewCell.swift */,
 				74B1FBDB1F41E25C004342CF /* MissoesViewController.swift */,
 				7471FC981F422CFB003671FE /* AdicionarMissoesViewController.swift */,
 			);
-			name = Missoes;
+			name = Missions;
 			sourceTree = "<group>";
 		};
-		741907E51F3E425700E5BCF4 /* Gastos */ = {
+		741907E51F3E425700E5BCF4 /* Spending */ = {
 			isa = PBXGroup;
 			children = (
 				3F9A97A31F4495140061D38A /* AdicionarGastosViewController.swift */,
 				3F9A979F1F4495060061D38A /* GastosViewController.swift */,
 				3F9A979D1F4495000061D38A /* GastosTableViewCell.swift */,
 			);
-			name = Gastos;
+			name = Spending;
 			sourceTree = "<group>";
 		};
-		741907E61F3E426100E5BCF4 /* Conquistas */ = {
+		741907E61F3E426100E5BCF4 /* Achievements */ = {
 			isa = PBXGroup;
 			children = (
 				749D42501F43F0BE00F69FA1 /* ConquistasTableViewCell.swift */,
 				749D42521F43F10A00F69FA1 /* ConquistasViewController.swift */,
 			);
-			name = Conquistas;
+			name = Achievements;
 			sourceTree = "<group>";
 		};
-		741907E71F3E426C00E5BCF4 /* Rank */ = {
+		741907E71F3E426C00E5BCF4 /* Ranking */ = {
 			isa = PBXGroup;
 			children = (
 				74A6D1D81F456A1E0039F97F /* RankViewController.swift */,
 				74A6D1DA1F456A330039F97F /* RankTableViewCell.swift */,
 			);
-			name = Rank;
+			name = Ranking;
 			sourceTree = "<group>";
 		};
 		74F141061F3CDBAA0092C069 = {
@@ -239,8 +157,8 @@
 			isa = PBXGroup;
 			children = (
 				74F1412B1F3CDCAD0092C069 /* Model */,
-				74F141281F3CDC190092C069 /* View */,
-				74F1412C1F3CDCC10092C069 /* Controller */,
+				74F141281F3CDC190092C069 /* Storyboard */,
+				74F1412C1F3CDCC10092C069 /* ViewController */,
 				74F141271F3CDBFA0092C069 /* Supporting Files */,
 			);
 			path = Gamic;
@@ -249,25 +167,25 @@
 		74F141271F3CDBFA0092C069 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				469A0A7B211F5E0700ABC005 /* Assets.xcassets */,
 				74F1411E1F3CDBAB0092C069 /* LaunchScreen.storyboard */,
 				74F141121F3CDBAB0092C069 /* AppDelegate.swift */,
 				74F141211F3CDBAB0092C069 /* Info.plist */,
-				7471FC961F422180003671FE /* Assets.xcassets */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		74F141281F3CDC190092C069 /* View */ = {
+		74F141281F3CDC190092C069 /* Storyboard */ = {
 			isa = PBXGroup;
 			children = (
+				747A518A1F4607D9003D5F6D /* NavPerfil.storyboard */,
+				747A51941F460979003D5F6D /* NavMissoes.storyboard */,
+				747A519E1F460CA6003D5F6D /* NavGastos.storyboard */,
+				747A51961F460B1F003D5F6D /* NavConquistas.storyboard */,
+				747A519B1F460BCF003D5F6D /* NavRank.storyboard */,
 				74F141161F3CDBAB0092C069 /* Main.storyboard */,
-				3F9FAE211F3DF60300520ECD /* Perfil */,
-				3F9FAE1F1F3DF5F100520ECD /* Missoes */,
-				3F9FAE201F3DF5F800520ECD /* Gastos */,
-				3F9FAE1E1F3DF5E900520ECD /* Conquistas */,
-				3F9FAE1D1F3DF5E300520ECD /* Rank */,
 			);
-			name = View;
+			name = Storyboard;
 			sourceTree = "<group>";
 		};
 		74F1412B1F3CDCAD0092C069 /* Model */ = {
@@ -280,17 +198,16 @@
 			name = Model;
 			sourceTree = "<group>";
 		};
-		74F1412C1F3CDCC10092C069 /* Controller */ = {
+		74F1412C1F3CDCC10092C069 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				741907E31F3E423500E5BCF4 /* Perfil */,
-				741907E41F3E424B00E5BCF4 /* Missoes */,
-				741907E51F3E425700E5BCF4 /* Gastos */,
-				741907E61F3E426100E5BCF4 /* Conquistas */,
-				741907E71F3E426C00E5BCF4 /* Rank */,
-				74F141141F3CDBAB0092C069 /* ViewController.swift */,
+				741907E61F3E426100E5BCF4 /* Achievements */,
+				741907E41F3E424B00E5BCF4 /* Missions */,
+				741907E31F3E423500E5BCF4 /* Profile */,
+				741907E71F3E426C00E5BCF4 /* Ranking */,
+				741907E51F3E425700E5BCF4 /* Spending */,
 			);
-			name = Controller;
+			name = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -325,7 +242,7 @@
 				TargetAttributes = {
 					74F1410E1F3CDBAA0092C069 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 88XH78UU3Z;
+						DevelopmentTeam = 4S2B7A2756;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -356,10 +273,10 @@
 				747A51981F460B1F003D5F6D /* NavConquistas.storyboard in Resources */,
 				747A519F1F460CA6003D5F6D /* NavGastos.storyboard in Resources */,
 				74F141201F3CDBAB0092C069 /* LaunchScreen.storyboard in Resources */,
-				7471FC971F422180003671FE /* Assets.xcassets in Resources */,
 				747A51951F460979003D5F6D /* NavMissoes.storyboard in Resources */,
 				747A519D1F460BCF003D5F6D /* NavRank.storyboard in Resources */,
 				74F141181F3CDBAB0092C069 /* Main.storyboard in Resources */,
+				469A0A7C211F5E0700ABC005 /* Assets.xcassets in Resources */,
 				747A518C1F4607D9003D5F6D /* NavPerfil.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -377,7 +294,6 @@
 				74A6D1D91F456A1E0039F97F /* RankViewController.swift in Sources */,
 				749D42511F43F0BE00F69FA1 /* ConquistasTableViewCell.swift in Sources */,
 				74B1FBDE1F41F5DF004342CF /* Perfil.swift in Sources */,
-				74F141151F3CDBAB0092C069 /* ViewController.swift in Sources */,
 				3F9A979E1F4495000061D38A /* GastosTableViewCell.swift in Sources */,
 				3F9A97A21F44950C0061D38A /* Gasto.swift in Sources */,
 				749D42551F43F1D400F69FA1 /* Conquistas.swift in Sources */,
@@ -539,12 +455,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 88XH78UU3Z;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4S2B7A2756;
 				INFOPLIST_FILE = Gamic/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "PUC-Minas.Gamic";
+				PRODUCT_BUNDLE_IDENTIFIER = Gamic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -553,12 +472,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 88XH78UU3Z;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4S2B7A2756;
 				INFOPLIST_FILE = Gamic/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "PUC-Minas.Gamic";
+				PRODUCT_BUNDLE_IDENTIFIER = Gamic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
